@@ -2,6 +2,8 @@
 
 A finder version of unrar command, but it still need to install unrar.
 
+[Download](https://github.com/CasparChou/UnRAR-macOS/releases/download/1.0/Unrar.app.zip)
+
 ## Requirement
 * unrar
 
