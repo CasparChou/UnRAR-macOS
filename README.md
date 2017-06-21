@@ -1,6 +1,6 @@
 # UnRAR-macOS
 
-A GUI version of unrar command, but it still need unrar command.
+A finder version of unrar command, but it still need to install unrar.
 
 ## Requirement
 * unrar
