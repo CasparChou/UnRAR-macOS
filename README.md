@@ -5,7 +5,10 @@ A GUI version of unrar command, but it still need unrar command.
 ## Requirement
 * unrar
 
-Using Homebrew install unrar
+> Using Homebrew install unrar
+```shell
+brew install unrar
+```
 
 ## Usage
 
