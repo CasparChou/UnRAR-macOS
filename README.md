@@ -12,6 +12,9 @@ A finder version of unrar command, but it still need to install unrar.
 brew install unrar
 ```
 
+## Install
+Move the app into `/Applications`
+
 ## Usage
 
 1. Click UnRAR
